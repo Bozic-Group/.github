@@ -1,2 +1,1 @@
-# Group Wiki
-Welcome to the cancer modeling group at University of Washington, department of applied mathematics! 
+This is a special rep that allows us to create a group profile (that shows in the front page of our organization). To see how this works, please refer to: https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile#adding-a-public-organization-profile-readme
