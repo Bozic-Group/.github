@@ -1,5 +1,5 @@
 
-Welcome to Bozic Group - the mathematical cancer modeling group lead by Prof. Ivana Bozic at University of Washington, department of applied mathematics! 
+Welcome to Bozic Group - the mathematical cancer modeling group lead by Prof. Ivana Bozic at the University of Washington, Department of Applied Mathematics! 
 
 UW AMATH Department [website](https://amath.washington.edu/)
 
